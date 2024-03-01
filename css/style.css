@@ -127,7 +127,7 @@ body {
 /* --------------------------------------------------------------- */
 
 
-/* .container {
+.container {
     display: flex;
     flex-wrap: wrap;
     width: 400px;
@@ -145,7 +145,7 @@ body {
     transform: rotate(90deg);
     background: pink;
 
-} */
+}
 
 
 
