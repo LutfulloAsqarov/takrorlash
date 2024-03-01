@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #293462;
+    height: 100vh;
+}
+
+
+
+
+
+/* .rectangle {
+    width: 800px;
+    height: 400px;
+    background-color: #6592cf;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 650px;
+    height: 650px;
+    background: #293462;
+    border-radius: 50%;
+}
+
+.circle__second {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+    background: #6592cf;
+    border-radius: 50%;
+}
+
+.circle__third {
+    width: 150px;
+    height: 150px;
+    background: yellow;
+    border-radius: 50%;
+} */
+
+
+/* --------------------------------------------------------------------- */
+
+
+
+/* .container {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-color: rgba(224, 242, 61, 0.592);
+    overflow: hidden;
+}
+
+.big__mountain {
+    position: absolute;
+    right: -50px;
+    bottom: -150px;
+    width: 400px;
+    height: 400px;
+    background: red;
+    transform: rotate(45deg);
+}
+
+.small__mountain {
+    position: absolute;
+    left: -100px;
+    bottom: -300px;
+    width: 400px;
+    height: 400px;
+    background: red;
+    transform: rotate(45deg);
+} */
+
+
+/* --------------------------------------------------------------- */
+
+
+
+/* .container {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: end;
+    align-items: end;
+    gap: 8px;
+    width: 350px;
+    height: 500px;
+    background-color: rgb(39, 39, 227);
+    border-radius: 200px 200px 0 0;
+}
+
+.stair {
+    background: #000;
+    height: 65px;
+}
+
+.stair__one {
+    width: 300px;
+}
+
+.stair__two {
+    width: 240px;
+}
+.stair__three {
+    width: 180px;
+}
+.stair__four {
+    width: 120px;
+} */
+
+
+/* --------------------------------------------------------------- */
+
+
+/* .container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 400px;
+}
+
+.rect {
+    width: 200px;
+    height: 200px;
+    background: blue;
+    transition: .5s;
+}
+
+.container:hover .rect {
+    transform: rotate(90deg);
+    background: pink;
+
+} */
+
+
+
+
